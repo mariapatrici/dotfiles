@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = los.valenzuelas@gmail.com
+	name = Maria Avenda√no
